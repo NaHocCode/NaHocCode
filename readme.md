@@ -1,6 +1,5 @@
 # Practicing at Trainee Program 2024
-<h1 align="center">Hi 👋, I'm NGUYEN NHAT ANH</h1>
-<h3 align="center">I am a student majoring in Computer Science at University of Inform Technology!!!</h3>
+<h1 align="center">NGUYEN NHAT ANH</h1>
 
 - 🔭 I’m currently practicing on **TRAINEE PROGRAM 2024**
 
