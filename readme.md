@@ -1,5 +1,6 @@
-# **Practicing at Trainee Program 2024**
-##### <h1 align="center">*NGUYEN NHAT ANH*</h1>
+# <span style="color: Blue;">**Practicing at Trainee Program 2024**</span>
+##### <h1 align="center"><span style="color: Red;">*NGUYEN NHAT ANH !!!*</span></h1>
+
 
                                          ___________________       ___________________  
       |                          |                |                         |                   
