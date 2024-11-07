@@ -13,6 +13,7 @@
 - 📄 Experience: **2 Months**
 
 ### **MY TARGET:**
+- *~~Study at UIT~~*
 - *Graduate in 2028*
 - *Achieved IELTS 7.0, TOCFL 4*
 - *Proficient in Python, C++*
