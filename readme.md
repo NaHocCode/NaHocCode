@@ -4,13 +4,14 @@
 ### **ABOUT ME :**
 
 - **🌱 Country**: Vietnam
-- **🔭 Training at:** TRAINEE PROGRAM 2024
-- **🎓 Studying:** University of Infrom Technology
+- **🔭 Training at :** Trainee Program 2024
+- **🎓 Studying :** Computer Science
+- **🏫 University :** University of Information Technology
 
 ### **WORK INFORMATION :**
-- **📄 Experience:** 2 Months
-- **🛠️ Tools & Platforms:** Github
-- ✉️ **Email:** 24520113@gm.uit.edu.vn
+- **📄 Experience :** 2 Months
+- **🛠️ Tools & Platforms :** Github
+- ✉️ **Email :** 24520113@gm.uit.edu.vn
 
 ### **MY TARGET :**
 - *~~Study at UIT~~*
