@@ -1,4 +1,5 @@
-# <span style="color: Blue;">**Practicing at Trainee Program 2024**</span>
+# <span style="color: Blue;">**Practicing at Trainee Program 2024**</span> 
+
 ##### <h1 align="center"><span style="color: Red;">*NGUYEN NHAT ANH !!!*</span></h1> 
  >                                        ___________________       ___________________  
  >     |                          |                |                         |                   
@@ -33,3 +34,12 @@
 
 
 ## #TRAINEEPROGRAM2024#CAVOI#DOANKHOA_KHMT#UIT
+
+# Chào mừng đến với GitHub Profile của tôi
+
+<p style="color: blue;">Đây là một đoạn văn bản màu xanh lam</p>
+<p style="color: red;">Đây là một đoạn văn bản màu đỏ</p>
+
+<div style="background-color: yellow; padding: 10px;">
+  <p style="color: green;">Đây là một hộp với nền màu vàng và chữ màu xanh lá cây.</p>
+</div>
