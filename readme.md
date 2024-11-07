@@ -1,4 +1,4 @@
-# <span style="color: Blue;">**Practicing at Trainee Program 2024**</span> 
+# <span style="color: Blue;">**Practicing at Trainee Program 2024,👋**</span> 
 
 ##### <h1 align="center"><span style="color: Red;">*NGUYEN NHAT ANH !!!*</span></h1> 
  >                                        ___________________       ___________________  
