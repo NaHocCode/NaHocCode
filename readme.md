@@ -1,10 +1,10 @@
 # <span style="color: Blue;">**Training at Trainee Program 2024,👋**</span> 
-### <h1 align="center"><span style="color: Red;">*NGUYEN NHAT ANH !!!*</span></h1> 
+### <h1 align="center"><span style="color: Red;">*NGUYEN NHAT ANH 🔥*</span></h1> 
        
 ### **ABOUT ME:**
 
 - 🌱 Country: **Vietnam**
-- 🔭 Practicing at: **TRAINEE PROGRAM 2024**
+- 🔭 Training at: **TRAINEE PROGRAM 2024**
 
 - 📫 Contact: **24520113@gm.uit.edu.vn**
 
