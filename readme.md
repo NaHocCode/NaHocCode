@@ -1,5 +1,21 @@
-# Practicing at Trainee Program 2024
-<h1 align="center">NGUYEN NHAT ANH</h1>
+# **Practicing at Trainee Program 2024**
+##### <h1 align="center">*NGUYEN NHAT ANH*</h1>
+
+                                         __________________       ___________________  
+      |                          |                |                         |                   
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |                          |                |                         |
+      |__________________________|       _________|_________                |
+
 
 - 🔭 I’m currently practicing on **TRAINEE PROGRAM 2024**
 
