@@ -3,7 +3,7 @@
        
 ### **ABOUT ME:**
 
--  Country: **Vietnam**
+- 🌱 Country: **Vietnam**
 - 🔭 Practicing at: **TRAINEE PROGRAM 2024**
 
 - 📫 Contact: **24520113@gm.uit.edu.vn**
