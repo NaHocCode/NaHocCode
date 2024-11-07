@@ -33,13 +33,5 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
-## #TRAINEEPROGRAM2024#CAVOI#DOANKHOA_KHMT#UIT
+### #TRAINEEPROGRAM2024#CAVOI#DOANKHOA_KHMT#UIT
 
-# Chào mừng đến với GitHub Profile của tôi
-
-<p style="color: blue;">Đây là một đoạn văn bản màu xanh lam</p>
-<p style="color: red;">Đây là một đoạn văn bản màu đỏ</p>
-
-<div style="background-color: yellow; padding: 10px;">
-  <p style="color: green;">Đây là một hộp với nền màu vàng và chữ màu xanh lá cây.</p>
-</div>
