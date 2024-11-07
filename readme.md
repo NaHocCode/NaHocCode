@@ -10,7 +10,7 @@
 
 ### **WORK INFORMATION :**
 - **📄 Experience :** 2 Months
-- **🛠️ Tools & Platforms :** Github
+- **🛠️ Tools & Platforms :** Github, Visual Studio Code
 - ✉️ **Email :** 24520113@gm.uit.edu.vn
 
 ### **MY TARGET :**
