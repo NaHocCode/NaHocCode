@@ -21,7 +21,7 @@
 
 - 📫 Contact: **24520113@gm.uit.edu.vn**
 
-- ⚡ Fun fact **I think i will be FA at my university**
+- 👨‍💻 Studying: **University of Infrom Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
