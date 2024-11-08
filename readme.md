@@ -1,5 +1,5 @@
 ## <span style="color: Blue;">**Training at Trainee Program 2024,👋**</span> 
-# <h1 align="center"><span style="color: Red;">*NGUYEN NHAT ANH 🔥*</span></h1> 
+# <h1 align="center"><span style="color: Red;">**NGUYEN NHAT ANH 🔥**</span></h1> 
        
 ### **ABOUT ME :**
 
