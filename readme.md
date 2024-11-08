@@ -3,17 +3,17 @@
        
 ### **ABOUT ME :**
 
-- **🌱 Country**: Vietnam
-- **🔭 Training at :** Trainee Program 2024
-- **🎓 Studying :** Computer Science
-- **🏫 University :** University of Information Technology
+- **🌱 Country:** Vietnam
+- **🔭 Training:** Trainee Program 2024
+- **🎓 Studying:** Computer Science
+- **🏫 University:** University of Information Technology
 
-### **WORK INFORMATION :**
-- **📄 Experience :** 2 Months
-- **🛠️ Tools & Platforms :** Github, Visual Studio Code
-- ✉️ **Email :** 24520113@gm.uit.edu.vn
+### **WORK INFORMATION:**
+- **📄 Experience:** 2 Months
+- **🛠️ Tools & Platforms:** Github, Visual Studio Code
+- ✉️ **Email:** 24520113@gm.uit.edu.vn
 
-### **MY TARGET :**
+### **MY TARGET:**
 - *~~Study at UIT~~*
 - *Graduate in 2028*
 - *Achieved IELTS 7.0, TOCFL 4*
